@@ -16,5 +16,15 @@ public class _03_Variables {
 
         boolean pass =true;
         System.out.println("합격? " + pass);
+
+        double d = 3.1456789;
+        float f = 3.1456789F;
+        System.out.println(d);
+        System.out.println(f);
+
+         long L= 1000000000000L;
+         L =  1_000_000_000_000L;
+        System.out.println(L);
+
     }
 }
